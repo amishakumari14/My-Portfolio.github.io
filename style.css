@@ -131,6 +131,9 @@ section.about .social a{
     transition: all .3s ease;
 }
 
+section.about .social a:hover{
+    background: lightsteelblue;
+}
 
 .section-heading{
     color: black;
