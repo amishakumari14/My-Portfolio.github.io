@@ -115,11 +115,6 @@ section.about p{
     margin-bottom: 2rem;
 }
 
-section.about .social{
-    display: flex;
-}
-
-
 .section-heading{
     color: black;
     text-align: center;
