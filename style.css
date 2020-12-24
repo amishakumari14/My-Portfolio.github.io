@@ -119,18 +119,6 @@ section.about .social{
     display: flex;
 }
 
-section.about .social a{
-    background-color: whitesmoke;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    height: 75px;
-    width: 75px;
-    border-radius: 50%;
-    margin-right: 0.6rem;
-    transition: all .3s ease;
-}
-
 
 .section-heading{
     color: black;
